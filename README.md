@@ -13,6 +13,9 @@ The aim of the project is to build an HTML page for importing the UFO sighing in
 
 ## Results
 
+**Visualisation of the Website**![image](https://user-images.githubusercontent.com/70616488/120170596-f9da3280-c1b5-11eb-9124-4d9864360c26.png)
+
+
 On the top of the website has the description and the purpose of the website, including titles, headings and an image as the backhround. Scrolling down the page, we can see different UFO sighting data on the right. On the left, there contains different filters allow people to quickly find their data of interests.
 
 ## Summary
