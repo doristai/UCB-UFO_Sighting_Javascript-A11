@@ -1,0 +1,5 @@
+Javascript.txt
+
+- var : Variable used in entire programme 
+- let : Variable used in a code block 
+- const : variable used once
